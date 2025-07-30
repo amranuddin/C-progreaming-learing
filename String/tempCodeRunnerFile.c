@@ -1,2 +1,2 @@
 
-    scanf ("%s", & amr);
+    // for ( int i=0; i<=lb; i++)
