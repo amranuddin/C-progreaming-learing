@@ -1,1 +1,2 @@
-   count++;
+
+        printf("IS DIGIT");
