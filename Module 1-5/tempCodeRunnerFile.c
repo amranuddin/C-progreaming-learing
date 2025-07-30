@@ -1,2 +1,1 @@
-
- int sum= a+b;
+   count++;
