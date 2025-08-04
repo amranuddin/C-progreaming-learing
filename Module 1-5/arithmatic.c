@@ -12,5 +12,7 @@ printf("%.2f\n",dive);
 
 int rem = a % b;
 printf("%d", rem);
+ return 0;
   
+
 }
