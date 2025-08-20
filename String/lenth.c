@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 int main ()
+
 {
     char amr [139];
     fgets(amr, 33, stdin);
