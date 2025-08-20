@@ -14,5 +14,6 @@ int main ()
 
 int size= strlen(amr);
    printf("%d", size);
+
     return 0;
 }
