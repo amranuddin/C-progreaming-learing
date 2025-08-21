@@ -4,6 +4,7 @@ void akila()
 {
     printf("Akila");
 }
+
 void fokhor()
 {
     printf("Fokhor \n");
