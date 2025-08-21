@@ -14,6 +14,7 @@ void shekha()
     printf("shekha \n");
     fokhor();
 }
+
 void amin()
 {
     printf("Amin \n");
