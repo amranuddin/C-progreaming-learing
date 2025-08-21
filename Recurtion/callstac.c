@@ -22,6 +22,7 @@ void amin()
     printf("Amin \n");
     shekha();
 }
+
 int main ()
 {
     printf("Amran \n");
