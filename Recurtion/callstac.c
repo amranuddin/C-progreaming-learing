@@ -8,6 +8,7 @@ void fokhor()
     printf("Fokhor \n");
     akila();
 }
+
 void shekha()
 {
     printf("shekha \n");
